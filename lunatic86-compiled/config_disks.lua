@@ -1,5 +1,5 @@
 -- Uncomment this line if you're on OpenComputers/Kallisti.
--- local filesystem = require("filesystem")
+local filesystem = require("filesystem")
 
 local function disk_finder(fn)
 	local tmpfn = nil
